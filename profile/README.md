@@ -27,3 +27,4 @@ Most tooling starts from pipelines and lets the data model emerge by accident. A
 
 - Product: https://autowarehouse.ai
 - Built by Intellica: https://www.intellica.net
+- LinkedIn: https://www.linkedin.com/company/autowarehouse
